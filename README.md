@@ -5,7 +5,7 @@ Generic MATLAB template for the AWE Group.
 ## :gear: Installation
 
 ### User Installation
-Please check the file `DEPENDENCIES.txt` for the required dependencies.
+Please check the file `MATLAB_ADDONS.txt` for the required dependencies.
 
 ### Developer Installation
 - Sphinx Dependencies, see [requirements](docs/requirements.txt)
